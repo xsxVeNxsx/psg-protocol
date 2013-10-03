@@ -222,6 +222,7 @@
 * badSid (Некоректный sid)
 * gameFull (Игра заполнена)
 * badGame (Некорректный идентификатор игры)
+* alreadyInGame (Пользователь уже в игре)
 
 ### leaveGame
 
