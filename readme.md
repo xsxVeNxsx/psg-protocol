@@ -325,7 +325,7 @@
 Запросы, требующие websocket
 ----------------------------
 
-Запросы, требующие websocket, предлагается отправлять на /websocket (Например, http://localhost:3000/websocket, если запросы без websocket отправлялись на localhost:3000)
+Запросы, требующие websocket, предлагается отправлять на /websocket (Например, http://localhost/websocket, если запросы без websocket отправлялись на localhost)
 
 ### ping
 
